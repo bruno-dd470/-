@@ -16,4 +16,4 @@
 **使用任何内容时必须署名作者。**  
 **Vous devez créditer l'auteur pour toute utilisation。**
 
-*Author: [TON NOM] | Source: https://github.com/[bruno-dd470]/天道人文*
+*Author: [Bruno DE DOMINICIS] | Source: [https://github.com/[bruno-dd470]/天道人文*](https://github.com/bruno-dd470/TianDao_RenWen)
