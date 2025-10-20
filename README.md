@@ -19,9 +19,9 @@ Collection de traductions et textes en sciences humaines, axés sur l’anthropo
 
 ### 2025年10月19日 — October 19, 2025
 
-- **English**: [On the origin of the meticulous refined and persevering temperament of the Chinese](pdfs/origine_du_tempérament_chinois_chatgpt_en-GB.pdf)
-- **Français**:[De l’origine du tempérament méticuleux, raffiné et persévérant des Chinois](pdfs/origine_du_tempérament_chinois_chatgpt_fr.pdf)
-- **中文**:  [中国人细致、精致与坚韧性格的起源](pdfs/origine_du_tempérament_chinois_chatgpt_zh-Hans.pdf)
+- **English**: [On the origin of the meticulous refined and persevering temperament of the Chinese](pdfs/origine_du_temperament_chinois_chatgpt_en-GB.pdf)
+- **Français**:[De l’origine du temperament méticuleux, raffiné et persévérant des Chinois](pdfs/origine_du_temperament_chinois_chatgpt_fr.pdf)
+- **中文**:  [中国人细致、精致与坚韧性格的起源](pdfs/origine_du_temperament_chinois_chatgpt_zh-Hans.pdf)
 
 → 探索中国人性格特质的深层心理结构根源：从排泄物的集体管理，到占卜与表意文字对精神病性与神经症性冲动的文明化疏导直至几何化与能量化的精神病理学。  
 → Exploring the deep psychological roots of the Chinese character: from the collective ecology of excrement to the civilizing channeling of psychotic and neurotic impulses through state divination and ideographic writing up to a geometric and energetic psychopathology.
