@@ -24,6 +24,7 @@ Collection de traductions et textes en sciences humaines, axés sur l’anthropo
 - **中文**:  [中国人细致、精致与坚韧性格的起源](pdfs/origine_du_temperament_chinois_chatgpt_zh-Hans.pdf)
 
 → 探索中国人性格特质的深层心理结构根源：从排泄物的集体管理，到占卜与表意文字对精神病性与神经症性冲动的文明化疏导直至几何化与能量化的精神病理学。  
+ 
 → Exploring the deep psychological roots of the Chinese character: from the collective ecology of excrement to the civilizing channeling of psychotic and neurotic impulses through state divination and ideographic writing up to a geometric and energetic psychopathology.
  
 → De la gestion collective des excréments à la canalisation civilisatrice des pulsions psychotiques et névrotiques à travers la divination et l'écriture idéographique jusqu'à une psychopathologie géométrique et énergétique.
