@@ -28,9 +28,9 @@ Collection de traductions et textes en sciences humaines, axés sur l’anthropo
 **Village Voices - Xi Jinping's Seven Years of Youth in a Shaanxi remote village**
 *First-hand accounts of Xi Jinping's rural life experiences*
 
-- **English**: [Village Voices - Seven Years of Youth](interviews/village_voices_1_en.pdf)
-- **Français**: [Voix du Village - Sept Années de Jeunesse](interviews/village_voices_1_fr.pdf)
-- **中文**: [乡村之声 - 七年青春](interviews/village_voices_1_zh.pdf)
+- **English**: [Village Voices - Seven Years of Youth](interviews/Xi_Jinping_15_22_ans_en.pdf)
+- **Français**: [Voix du Village - Sept Années de Jeunesse](interviews/Xi_Jinping_15_22_ans_fr.pdf)
+- **中文**: [乡村之声 - 七年青春](interviews/Xi_Jinping_15_22_ans_zh.pdf)
 
 → Collection of villager interviews documenting Xi Jinping's youth life experiences and cultural perspectives in Liangjiahe, a remote Shaanxi village.
 → 与村民的访谈：年轻时的习近平在陕西偏远村庄梁家河的生活。
