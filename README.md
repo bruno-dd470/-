@@ -17,6 +17,22 @@ Collection de traductions et textes en sciences humaines, axés sur l’anthropo
 
 ## 🆕 最新资料 (Recent Additions)
 
+### 2025年10月24日 — October 24, 2025
+
+**📄 Version 2 improvements:**
+- **Precision**: Correction and clarification of the Chinese president's quote
+- **Development**: Added paragraph on the refinement/waste double valence  
+- **Enrichment**: Enhanced and completed bibliography
+- **Quality**: General revision of translation and formatting
+
+**📄 版本2改进：**
+- **精确性**：对中国主席引用的修正和澄清
+- **发展**：增加了关于精致/废物双重价态的段落
+- **丰富性**：改进和完善的参考文献
+- **质量**：翻译和格式的全面修订
+
+---
+
 ### 2025年10月19日 — October 19, 2025
 
 - **English**: [On the origin of the meticulous refined and persevering temperament of the Chinese](pdfs/origine_du_temperament_chinois_v2_en.pdf)
