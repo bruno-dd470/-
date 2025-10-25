@@ -17,6 +17,25 @@ Collection de traductions et textes en sciences humaines, axés sur l’anthropo
 
 ## 🆕 最新资料 (Recent Additions)
 
+---
+
+### 2025年10月25日 — October 25, 2025
+
+## 🗣️ Village Voices / 乡村之声
+
+*Automated translation from Chinese / Traduction automatique du chinois*
+
+**Village Voices - Xi Jinping's Seven Years of Youth in a Shaanxi remote village**
+*First-hand accounts of Xi Jinping's rural life experiences*
+
+- **English**: [Village Voices - Seven Years of Youth](interviews/village_voices_1_en.pdf)
+- **Français**: [Voix du Village - Sept Années de Jeunesse](interviews/village_voices_1_fr.pdf)
+- **中文**: [乡村之声 - 七年青春](interviews/village_voices_1_zh.pdf)
+
+→ Collection of villager interviews documenting Xi Jinping's youth life experiences and cultural perspectives in Liangjiahe, a remote Shaanxi village.
+→ 与村民的访谈：年轻时的习近平在陕西偏远村庄梁家河的生活。
+
+
 ### 2025年10月24日 — October 24, 2025
 
 **📄 Version 2 improvements:**
