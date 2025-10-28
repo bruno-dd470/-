@@ -17,6 +17,75 @@ Collection de traductions et textes en sciences humaines, axés sur l’anthropo
 
 ## 🆕 最新资料 (Recent Additions)
 
+### 2025年10月28日 — October 28, 2025
+
+# The Man Who Talks to Plants
+
+**When nature reveals its best-kept secrets**
+
+Imagine:
+- **150 tons of onions per hectare** – where the average yield is 16 tons
+- **Monumental 45 kg cabbages**
+- **Corn standing up to 6 meters tall**
+- **7-11 kg beets** and prolific squash plants
+
+These aren't fantasy novel numbers.
+They're grown every season in the Valley of Santiago, Mexico, by **Don José Carmen**, a humble farmer whose methods could reinvent modern agriculture.
+
+**His results are scientifically validated:**
+- 🔬 **Jean Marie HUVAC**, Lecturer at the Applied Plant Biology Laboratory of the National Museum of Natural History in Paris, confirmed the exceptional nutritional quality and flavor of his produce.
+- 🌱 **Professor Nicolas Cerda** from the Faculty of Agronomy at Chapingo University successfully replicated his protocols.
+
+**Living proof** that the future of food and ecology may depend on our willingness to think outside the box – and question conventional agrochemical dogma.
+
+---
+
+## 与植物对话的人
+**大自然揭示其珍藏的秘密**
+
+想象一下：
+- **每公顷150吨洋葱** – 而平均产量仅为16吨
+- **重达45公斤的巨型卷心菜**
+- **高达6米的玉米**
+- **7-11公斤的甜菜**和丰产的多瓜植物
+
+这些并非奇幻小说中的数字。
+它们每个季节都在墨西哥圣地亚哥山谷由**何塞·卡门**种植出来，这位谦逊的农民的方法可能彻底改变现代农业。
+
+**他的成果经过科学验证：**
+- 🔬 **让·玛丽·于瓦克**，巴黎国家自然历史博物馆应用植物生物学实验室讲师，确认了他的农产品具有卓越的营养品质和风味。
+- 🌱 墨西哥查平戈大学农学系的**尼古拉斯·塞尔达教授**成功复制了他的种植方案。
+
+**这是活生生的证据**，表明粮食和生态的未来可能取决于我们跳出常规思维的意愿——以及质疑传统农化教条的勇气。
+
+---
+
+## Documentary Film Available
+
+**"The Man Who Makes Rain"** - Featuring Don José Carmen  
+🎬 **Now available for €9 on:** https://www.magique-trotter.com/mexique/
+
+### About the Film
+
+This documentary follows the same extraordinary farmer, showcasing his remarkable ability to **make rain in desert areas** using ancient Mexican techniques decoded from ancient Maya codices.
+In 1989, under university supervision, he successfully made it rain on three deserts that had been dry for years. The film also captures his stunning achievement in Andalusia, where he ended a 5-year drought - torrential rains began immediately after he completed his ritual.
+His environmentally friendly methods could offer revolutionary solutions to global ecological and food challenges.
+These Mexican techniques may resonate with ancient Chinese shamanic traditions, offering an opportunity to reconnect with and adapt this ancestral knowledge.
+
+---
+
+## 纪录片电影
+
+**《造雨之人》** - 关于何塞·卡门的纪录片  
+🎬 **现价9欧元，购买链接:** https://www.magique-trotter.com/mexique/
+
+### 电影简介
+
+本纪录片跟踪拍摄了这位非凡的农民，展示了他使用从古代墨西哥典籍破译的技术**在沙漠地区造雨**的非凡能力。
+1989年，在大学监督下，他成功在三个干旱多年的沙漠上造雨。影片还记录他在安达卢西亚的惊人成就，结束了当地5年的干旱——在他完成仪式后立即下起了倾盆大雨。
+他的环保方法可能为全球生态和粮食挑战提供革命性的解决方案。
+这些墨西哥技术或许能与中国古代萨满传统产生共鸣，为重新连接并利用这一古老智慧提供了可能。
+
 ---
 
 ### 2025年10月25日 — October 25, 2025
