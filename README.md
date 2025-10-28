@@ -21,6 +21,14 @@ Collection de traductions et textes en sciences humaines, axés sur l’anthropo
 
 # The Man Who Talks to Plants
 
+## Download PDFs / 下载PDF文件
+
+### Available translations: / 可用翻译版本：
+- 📄 [English Version](pdfs/Lhomme_qui_parle_avec_les_plantes_Yvo_Perez_Barreto_en.pdf)
+- 📄 [Version française](pdfs/Lhomme_qui_parle_avec_les_plantes_Yvo_Perez_Barreto_fr.pdf)
+- 📄 [中文版本](pdfs/Lhomme_qui_parle_avec_les_plantes_Yvo_Perez_Barreto_zh.pdf)
+
+
 **When nature reveals its best-kept secrets**
 
 Imagine:
