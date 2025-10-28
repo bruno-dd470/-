@@ -33,6 +33,7 @@ Collection de traductions et textes en sciences humaines, axés sur l’anthropo
 - **中文**: [乡村之声 - 七年青春](interviews/Xi_Jinping_15_22_ans_zh.pdf)
 
 → Collection of villager interviews documenting Xi Jinping's youth life experiences and cultural perspectives in Liangjiahe, a remote Shaanxi village.
+
 → 与村民的访谈：年轻时的习近平在陕西偏远村庄梁家河的生活。
 
 
