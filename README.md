@@ -19,16 +19,43 @@ Collection de traductions et textes en sciences humaines, axés sur l’anthropo
 
 ### 2025年10月28日 — October 28, 2025
 
-# The Man Who Talks to Plants
+#### Now Available on GitHub: Chinese Translation of "The Man Who Talks to Plants" / 现于GitHub发布：《与植物对话的人》中文翻译
 
-## Download PDFs / 下载PDF文件
+**Download Chinese Translation / 仅下载中文翻译**
+- 📄 [中文翻译版本](pdfs/Lhomme_qui_parle_avec_les_plantes_Yvo_Perez_Barreto_zh.pdf)
 
-### Available translations: / 可用翻译版本：
-- 📄 [English Version](pdfs/Lhomme_qui_parle_avec_les_plantes_Yvo_Perez_Barreto_en.pdf)
-- 📄 [Version française](pdfs/Lhomme_qui_parle_avec_les_plantes_Yvo_Perez_Barreto_fr.pdf)
-- 📄 [中文版本](pdfs/Lhomme_qui_parle_avec_les_plantes_Yvo_Perez_Barreto_zh.pdf)
+**⚠️ Note on Availability / 可用性说明**
+- The original book is commercially available in English, French and Spanish for €9
+- This repository contains only the **Chinese translation** made available for educational purposes
+- Original versions can be purchased at: https://www.magique-trotter.com/mexique/
 
+**⚠️ 可用性说明**
+- 原版书籍以英语、法语和西班牙语出售，价格为9欧元
+- 本仓库仅包含用于教育目的的**中文翻译**
+- 原版购买链接：https://www.magique-trotter.com/mexique/
 
+**Two documentary films available at the same links:**
+- "The Man Who Talks to Plants" - Agricultural techniques
+- "The Man Who Makes Rain" - Rain calling techniques
+
+**可通过相同链接观看的两部纪录片：**
+- 《与植物对话的人》- 农业技术
+- 《造雨之人》- 祈雨技术
+
+**Documentary Films Information / 纪录片信息**
+- Films commercially available in multiple languages for €9
+- This section provides information and links to official sources  
+- No actual film files are hosted in this repository
+- Support the creators by purchasing through official channels
+
+**官方多语言纪录片链接：**
+- 🎥 [English Version](https://www.magique-trotter.com/en/mexico-en/)
+- 🎥 [Version française](https://www.magique-trotter.com/mexique/)
+- 🎥 [Versión española](https://www.magique-trotter.com/es/mexico/)
+
+---
+
+### About the Book & the Film on Talking to Plants Techniques
 **When nature reveals its best-kept secrets**
 
 Imagine:
@@ -41,7 +68,7 @@ These aren't fantasy novel numbers.
 They're grown every season in the Valley of Santiago, Mexico, by **Don José Carmen**, a humble farmer whose methods could reinvent modern agriculture.
 
 **His results are scientifically validated:**
-- 🔬 **Jean Marie HUVAC**, Lecturer at the Applied Plant Biology Laboratory of the National Museum of Natural History in Paris, confirmed the exceptional nutritional quality and flavor of his produce.
+- 🔬 **Jean Marie HUVAC**, Lecturer at the Applied Plant Biology Laboratory of the French National Museum of Natural History in Paris, confirmed the exceptional nutritional quality and flavor of his produce.
 - 🌱 **Professor Nicolas Cerda** from the Faculty of Agronomy at Chapingo University successfully replicated his protocols.
 
 **Living proof** that the future of food and ecology may depend on our willingness to think outside the box – and question conventional agrochemical dogma.
@@ -68,14 +95,9 @@ They're grown every season in the Valley of Santiago, Mexico, by **Don José Car
 
 ---
 
-## Documentary Film Available
+### About the Film on Rain Calling Techniques
 
-**"The Man Who Makes Rain"** - Featuring Don José Carmen  
-🎬 **Now available for €9 on:** https://www.magique-trotter.com/mexique/
-
-### About the Film
-
-This documentary follows the same extraordinary farmer, showcasing his remarkable ability to **make rain in desert areas** using ancient Mexican techniques decoded from ancient Maya codices.
+This documentary follows the same extraordinary farmer, showcasing his remarkable ability to **make rain in desert areas** using ancient Mexican techniques decoded from Maya codices.
 In 1989, under university supervision, he successfully made it rain on three deserts that had been dry for years. The film also captures his stunning achievement in Andalusia, where he ended a 5-year drought - torrential rains began immediately after he completed his ritual.
 His environmentally friendly methods could offer revolutionary solutions to global ecological and food challenges.
 These Mexican techniques may resonate with ancient Chinese shamanic traditions, offering an opportunity to reconnect with and adapt this ancestral knowledge.
@@ -95,6 +117,9 @@ These Mexican techniques may resonate with ancient Chinese shamanic traditions, 
 这些墨西哥技术或许能与中国古代萨满传统产生共鸣，为重新连接并利用这一古老智慧提供了可能。
 
 ---
+
+
+
 
 ### 2025年10月25日 — October 25, 2025
 
