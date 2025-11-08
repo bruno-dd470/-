@@ -17,6 +17,16 @@ Collection de traductions et textes en sciences humaines, axés sur l’anthropo
 
 ## 🆕 最新资料 (Recent Additions)
 
+### 2025年11月08日 — November 08, 2025
+🇫🇷 Ce texte explore la confrontation entre l'art contemporain provocateur et la sagesse civilisationnelle chinoise. À travers une analyse psychanalytique des toilettes en or massif de Cattelan et une étude de la gestion traditionnelle des excréments en Chine, ces textes révèlent deux modèles opposés de sublimation des pulsions anales : la critique nihiliste occidentale face à l'élégante synthèse orientale. Une réflexion fascinante sur les fondements psychiques des civilisations.
+Le texte sur la Chine est disponible plus bas dans ce readme.
+
+🇨🇳 这一文本探讨了前卫当代艺术与中华文明智慧之间的深刻对话。通过分析卡特兰的纯金马桶作品与中国传统粪便管理的文化实践，这些研究揭示了处理肛门期冲动的两种截然不同的模式：西方虚无主义的批判与东方优雅融合的对照。一场关于文明心理基础的迷人探索，展现出中国"中庸之道"在心理结构中独特体现的精彩篇章。
+中文版将于明日完善
+关于中国的文本可在本读我文件下方查阅。
+
+
+
 ### 2025年10月28日 — October 28, 2025
 
 #### Now Available on GitHub: Chinese Translation of "The Man Who Talks to Plants" / 现于GitHub发布：《与植物对话的人》中文翻译
